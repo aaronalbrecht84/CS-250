@@ -1,7 +1,7 @@
 # CS-250
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+1.  How do I interpret user needs and implement them into a program? How does creating “user stories” help with this? <br>
 Interpreting user needs begins with active listening, gathering requirements, and understanding the practical goals behind feature requests.  User stories bridge the gap between client needs and technical specifications by structuring requests into a concise framework.  This keeps development focused on real-world utility, breaks complex functionality into manageable work items, and defines clear acceptance criteria for testing.
-How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work? <br>
 My approach to program development relies on iterative, modular design, starting with sound core architecture, building incrementally, and continually testing components.  Moving forward, I plan to incorporate core agile practices such as sprint planning and retrospectives to maintain steady project velocity and adaptively address bottlenecks.  Utilizing short sprint cycles allows for quick feedback loops, ensuring software adapts seamlessly when requirements change.
-What does it mean to be a good team member in software development?
+3. What does it mean to be a good team member in software development? <br>
 Being an effective software development team member requires strong communication, accountability, and active collaboration.  It involves writing clean, well-documented code, participating constructively in peer reviews, and contributing meaningfully during scrum activities like stand-ups.  A reliable team member raises blockers early, supports continuous improvement, and prioritizes overall team success over individual output.
